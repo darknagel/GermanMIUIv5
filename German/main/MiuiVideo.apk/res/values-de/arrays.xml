@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="channel_tabs">
+        <item>Hot</item>
+        <item>Rang</item>
+        <item>New</item>
+    </string-array>
+    <string-array name="channel_featured_tabs">
+        <item>Chosen</item>
+        <item>Rang</item>
+        <item>New</item>
+    </string-array>
+    <string-array name="home_tabs">
+        <item>Online</item>
+        <item>Lokal</item>
+    </string-array>
+    <string-array name="series_detail_tabs">
+        <item>Episode</item>
+        <item>Zusammenfassung</item>
+    </string-array>
+    <string-array name="addon_list_tabs">
+        <item>All Specials</item>
+        <item>My Specials</item>
+    </string-array>
+</resources>
