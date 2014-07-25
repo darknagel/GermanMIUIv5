@@ -35,12 +35,12 @@ Disable floating windows?"</string>
     <string name="button_text_quick_scan">Scan</string>
     <string name="button_text_a_key_clean_up">Clean up</string>
     <string name="button_text_a_key_optimize">Optimize</string>
-    <string name="button_text_a_key_uninstall">Uninstall</string>
-    <string name="button_text_done">Done</string>
-    <string name="button_text_cancel">Cancel</string>
-    <string name="deep_cleaning">Advanced</string>
+    <string name="button_text_a_key_uninstall">Deinstallieren</string>
+    <string name="button_text_done">Ferig</string>
+    <string name="button_text_cancel">Abbrechen</string>
+    <string name="deep_cleaning">Erweitert</string>
     <string name="rubbish_cleaning">Cleaner</string>
-    <string name="storage_size_title">Storage</string>
+    <string name="storage_size_title">Speicher</string>
     <string name="storage_size_content">%1$s used | %2$s available</string>
     <string name="quick_scan_doing_title">Scanning…</string>
     <string name="quick_scan_done_title">Done</string>

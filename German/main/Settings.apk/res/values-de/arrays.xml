@@ -60,19 +60,19 @@
         <item>Battery saving</item>
     </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
-        <item>After 1 minute</item>
-        <item>After 5 minutes</item>
-        <item>After 10 minutes</item>
-        <item>Never</item>
+        <item>Nach 1 Minute</item>
+        <item>Nach 5 Minuten</item>
+        <item>Nach 10 Minuten</item>
+        <item>Nie</item>
     </string-array>
     <string-array name="power_dialog_sleep_items">
-        <item>15 seconds</item>
-        <item>30 seconds</item>
-        <item>1 minute</item>
-        <item>2 minutes</item>
-        <item>5 minutes</item>
-        <item>10 minutes</item>
-        <item>Never</item>
+        <item>15 Sekunden</item>
+        <item>30 Sekunden</item>
+        <item>1 Minute</item>
+        <item>2 Minuten</item>
+        <item>5 Minuten</item>
+        <item>10 Minuten</item>
+        <item>Nie</item>
     </string-array>
     <string-array name="power_dialog_cpu_state_items">
         <item>High performance</item>
@@ -244,8 +244,8 @@
     </string-array>
     <string-array name="wifi_status">
         <item></item>
-        <item>Scanning…</item>
-        <item>Connecting…</item>
+        <item>Scannen…</item>
+        <item>Verbinden…</item>
         <item>Authenticating…</item>
         <item>Obtaining IP address…</item>
         <item>Connected</item>
