@@ -9,15 +9,15 @@
     <string-array name="contact_entries">
         <item>Name</item>
         <item>Nickname</item>
-        <item>Phone</item>
+        <item>Telefon</item>
         <item>E-mail</item>
-        <item>Organization</item>
-        <item>IM</item>
+        <item>Firma</item>
+        <item>Chat</item>
         <item>SIP Phone</item>
-        <item>Birthday</item>
+        <item>Geburtstag</item>
         <item>Website</item>
-        <item>Address</item>
-        <item>Note</item>
+        <item>Addresse</item>
+        <item>Notizen</item>
     </string-array>
     <string-array name="contact_values">
         <item>vnd.android.cursor.item/name</item>
@@ -33,10 +33,10 @@
         <item>vnd.android.cursor.item/note</item>
     </string-array>
     <string-array name="font_size_names">
-        <item>Small</item>
-        <item>Default</item>
-        <item>Large</item>
-        <item>Super</item>
+        <item>Klein</item>
+        <item>Normal</item>
+        <item>Groß</item>
+        <item>Sehr Groß</item>
     </string-array>
     <string-array name="count_entries">
         <item>0</item>

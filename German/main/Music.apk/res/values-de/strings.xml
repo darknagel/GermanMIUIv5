@@ -31,7 +31,7 @@
     <string name="account_setting">Account</string>
     <string name="account_and_synchronization">Account &amp; sync</string>
     <string name="xiaomi_account_setting">Xiaomi Account</string>
-    <string name="bind_baidu_account_setting">Bind Baidu Account</string>
+    <string name="bind_baidu_account_setting">Binde Baidu Account</string>
     <string name="bind_baidu_account_summary">Sync playlists and enjoy other services by binding your Baidu music account to the Music app</string>
     <string name="synchronize_playlist_setting">Sync playlist</string>
     <string name="synchronize_playlist_summary">Sync your playlist with Mi Cloud</string>
@@ -68,10 +68,10 @@
     <string name="filter_by_folder">Filter by folder</string>
     <string name="filter_by_folder_summary_on">Edit file filter list</string>
     <string name="filter_by_folder_summary_off">Touch to configure</string>
-    <string name="select_folder">Select folder</string>
-    <string name="shake_and_skip">Shake to skip</string>
-    <string name="shake_settings">Shake to skip</string>
-    <string name="shake_summary">Shake your phone to skip to the next track when a song is playing</string>
+    <string name="select_folder">Wähle Ordner</string>
+    <string name="shake_and_skip">Schütteln für Nächsten track</string>
+    <string name="shake_settings">Schütten für nächsten track</string>
+    <string name="shake_summary">Schüttel dein Handy um zum nächsten Track zu springen.</string>
     <string name="shake_degree_desc">Shake sensitivity</string>
     <string name="shake_degree_low">Low</string>
     <string name="shake_degree_high">High</string>
@@ -87,9 +87,9 @@
     <string name="fade_effect_settings">Crossfade</string>
     <string name="fade_effect_summary">Crossfade volume between song transitions</string>
     <string name="filter_notification">Selected track has been removed via filter.</string>
-    <string name="delete_item">Delete</string>
+    <string name="delete_item">Löschen</string>
     <string name="remove_item">Remove</string>
-    <string name="delete_song_desc">Delete %s?</string>
+    <string name="delete_song_desc">Lösche %s?</string>
     <string name="scanning">Scanning SD card…</string>
     <string name="scanning_nosdcard">Scanning USB storage…</string>
     <string name="search_title">Search</string>
